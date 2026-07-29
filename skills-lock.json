@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "system-analyst-study-notes": {
+      "source": "chapaofan-zy/process-requirement",
+      "sourceType": "github",
+      "skillPath": "skills/system-analyst-study-notes/SKILL.md",
+      "computedHash": "71a0b260138ef3126677111c132522c4bb48eb1aa10a8787df29b9a9f52b50ea"
+    }
+  }
+}
