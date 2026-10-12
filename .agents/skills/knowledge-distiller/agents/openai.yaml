@@ -1,0 +1,4 @@
+interface:
+  display_name: "知识点提炼"
+  short_description: "按目录结构提炼简短、易记且统一格式的知识点摘要清单"
+  default_prompt: "使用 $knowledge-distiller 整理指定目录或文件，输出简短易记的关键词和一句话概括。"

@@ -31,7 +31,7 @@ Skill：`markmap-mindmap`
 直接告诉 Agent：
 
 - `把软件工程目录生成思维导图`
-- `将软件工程/软件工程.md 转成 Markmap`
+- `将软件工程/07-软件工程.md 转成 Markmap`
 - `整理这些 Markdown 并生成脑图`
 
 输出文件：
